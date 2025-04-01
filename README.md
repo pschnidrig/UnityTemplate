@@ -4,7 +4,7 @@ This repository is for the hand-on part in the unity session for the Dev-Days.
 
 ## Prerequisite
 
-- Unity and Unity Hub installed
+- Unity 6 and Unity Hub installed
 - Unity Account created and a valid free licence
 - Any editor installed to modify the code (VS, VSCode, Rider...)
 
