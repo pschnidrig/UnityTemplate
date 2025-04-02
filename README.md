@@ -21,7 +21,11 @@ This repository is for the hand-on part in the unity session for the Dev-Days.
 
 1. Delete the scene under the hierarchy window.
 2. Go to the project section in unity and select scenes, then drag and drop the SampleScene into the Hierarchy window.
-3. Press the play button and see what happens - perhaps a mouseclick will do something?
+3. Select the new Scene as active
+   ![setSceneActive](./Tutorial/setSceneActive.png)
+4. In the Game window select the 9x16 Resolution. 
+   If it is not available - create it by pressing the + sign at the bottom, select Aspect Ration and enter 9x16.
+   ![GameResolution](./Tutorial/GameResolution.png)
 
 ### Missing something?
 
