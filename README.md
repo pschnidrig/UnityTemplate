@@ -24,7 +24,7 @@ This repository is for the hand-on part in the unity session for the Dev-Days.
 3. Select the new Scene as active
    ![setSceneActive](./Tutorial/setSceneActive.png)
 4. In the Game window select the 9x16 Resolution. 
-   If it is not available - create it by pressing the + sign at the bottom, select Aspect Ration and enter 9x16.
+   If it is not available - create it by pressing the + sign at the bottom, select type Aspect Ration and enter 9 and 16.
    ![GameResolution](./Tutorial/GameResolution.png)
 
 ### Missing something?
