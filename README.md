@@ -31,7 +31,7 @@ This repository is for the hand-on part in the unity session for the Dev-Days.
 
 As we know each dev bird has to be within time and budget. So we need to create those restrictions in the game.
 
-1. From the sprites folder - open the sprite and drag and drop both pipes into the Scene
+1. From the sprites folder - click on the little arrow on the sprite around the middle of the right edge to extend it. This should now show multiple sprites. Then drag and drop both pipes into the Scene.
 2. Rename the top pipe to **Time** and the bottom pipe to **Budget**.
 3. Set the order layout in the Inspector window to 1 for both Time and Budget.
    _The order indicates which sprite is on top of which other. The current setup has the background on 0, bird on 1 and the bottom on 2_
